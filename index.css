@@ -17,7 +17,7 @@ a:before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #282828;
+  background-color: #ebdbb2;
   visibility: hidden;
   transform: scaleX(0);
   -webkit-transform: scaleX(0);
@@ -81,7 +81,7 @@ ul li {
   -webkit-transform: translate(-10%, -50%);
   text-align: right;
   /*color: #d65d0e*/
-  color: #d65d0e;
+  color: #ebdbb2;
  
 }
 
@@ -93,5 +93,7 @@ ul li {
     transform: translate(10%, -50%);
     -webkit-transform: translate(10%, -50%);
     text-align: center;
-    color: #282822;
+    /*color: #282822;*/
+    color: #ebdbb2;
+
 }
